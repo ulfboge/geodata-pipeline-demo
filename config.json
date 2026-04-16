@@ -1,0 +1,6 @@
+{
+  "input_file": "input.gpkg",
+  "input_layer": "input",
+  "output_file": "processed_output.gpkg",
+  "min_area_ha": 1.0
+}
